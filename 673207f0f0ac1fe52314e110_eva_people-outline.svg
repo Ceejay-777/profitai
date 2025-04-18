@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<svg width="249" height="230" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="294" id="filter0_ddii_708_2701" width="294" x="-32" y="-28">
+   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+   <feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+   <feOffset dy="4"/>
+   <feGaussianBlur stdDeviation="32"/>
+   <feComposite in2="hardAlpha" operator="out"/>
+   <feColorMatrix type="matrix" values="0 0 0 0 0.450738 0 0 0 0 0.624671 0 0 0 0 1 0 0 0 0.25 0"/>
+   <feBlend in2="BackgroundImageFix"/>
+   <feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+   <feOffset/>
+   <feGaussianBlur stdDeviation="8"/>
+   <feComposite in2="hardAlpha" operator="out"/>
+   <feColorMatrix type="matrix" values="0 0 0 0 0.142791 0 0 0 0 0.0683292 0 0 0 0 0.431331 0 0 0 1 0"/>
+   <feBlend in2="effect1_dropShadow_708_2701"/>
+   <feBlend in="SourceGraphic" in2="effect2_dropShadow_708_2701"/>
+   <feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+   <feOffset dy="-8"/>
+   <feGaussianBlur stdDeviation="4"/>
+   <feComposite in2="hardAlpha" operator="arithmetic"/>
+   <feColorMatrix type="matrix" values="0 0 0 0 0.15364 0 0 0 0 0.15364 0 0 0 0 0.561436 0 0 0 0.35 0"/>
+   <feBlend in2="shape"/>
+   <feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+   <feOffset dy="4"/>
+   <feGaussianBlur stdDeviation="2"/>
+   <feComposite in2="hardAlpha" operator="arithmetic"/>
+   <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.45 0"/>
+   <feBlend in2="effect3_innerShadow_708_2701"/>
+  </filter>
+  <linearGradient id="paint0_linear_708_2701" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop stop-color="#FF8D3A"/>
+   <stop offset="1" stop-color="#FFAE61"/>
+  </linearGradient>
+  <linearGradient id="paint1_linear_708_2701" x1="0" x2="1" y1="0.5" y2="0.5">
+   <stop stop-color="#FF8D3A"/>
+   <stop offset="1" stop-color="#FFBE89"/>
+  </linearGradient>
+ </defs>
+ <g class="layer" display="inline">
+  <title>Layer 1</title>
+  <g filter="url(#filter0_ddii_708_2701)" id="svg_1">
+   <path d="m128.06,136.45l0.32,0.31l0.34,-0.27c5.97,-4.63 13.31,-7.15 20.86,-7.16c9.04,0 17.71,3.59 24.1,9.99c6.39,6.39 9.99,15.06 9.99,24.1c0,1.7 -0.68,3.33 -1.88,4.53c-1.21,1.21 -2.84,1.88 -4.54,1.88c-1.7,0 -3.33,-0.67 -4.54,-1.88c-1.2,-1.2 -1.88,-2.83 -1.88,-4.53l0,0c0,-3.99 -1.13,-7.9 -3.25,-11.28c-2.12,-3.38 -5.15,-6.09 -8.75,-7.83c-3.59,-1.74 -7.6,-2.43 -11.56,-1.99c-3.97,0.43 -7.73,1.98 -10.86,4.45l-0.34,0.26l0.21,0.37c3.88,7.02 5.9,14.91 5.89,22.93l0,0c0,1.7 -0.68,3.34 -1.88,4.54c-1.21,1.2 -2.84,1.88 -4.54,1.88c-1.7,0 -3.33,-0.68 -4.54,-1.88c-1.2,-1.2 -1.88,-2.84 -1.88,-4.54c0,-9.3 -3.69,-18.23 -10.27,-24.8c-6.58,-6.58 -15.51,-10.28 -24.81,-10.28c-9.31,0 -18.23,3.7 -24.81,10.28c-6.58,6.57 -10.27,15.5 -10.27,24.8c0,1.7 -0.68,3.34 -1.88,4.54c-1.21,1.2 -2.84,1.88 -4.54,1.88c-1.7,0 -3.33,-0.68 -4.54,-1.88c-1.2,-1.2 -1.88,-2.84 -1.88,-4.54c0.02,-9.46 2.83,-18.71 8.09,-26.57c5.26,-7.87 12.74,-14 21.48,-17.62c8.74,-3.63 18.36,-4.58 27.64,-2.75c9.29,1.84 17.82,6.38 24.52,13.06zm-18.72,-33.45c-4.46,2.99 -9.72,4.58 -15.09,4.58c-7.21,0 -14.12,-2.86 -19.21,-7.95c-5.09,-5.1 -7.96,-12.01 -7.96,-19.21c0,-5.38 1.6,-10.63 4.58,-15.1c2.99,-4.46 7.23,-7.95 12.19,-10c4.97,-2.06 10.43,-2.6 15.7,-1.55c5.27,1.05 10.11,3.64 13.91,7.44c3.8,3.8 6.39,8.64 7.43,13.91c1.05,5.27 0.52,10.73 -1.54,15.69c-2.06,4.97 -5.54,9.21 -10.01,12.19zm-7.13,-34.5c-2.35,-1.58 -5.13,-2.42 -7.96,-2.42c-3.8,0 -7.45,1.51 -10.14,4.2c-2.68,2.69 -4.19,6.34 -4.19,10.14c0,2.83 0.84,5.6 2.41,7.96c1.58,2.36 3.82,4.19 6.43,5.28c2.62,1.08 5.51,1.37 8.29,0.79c2.78,-0.58 5.28,-2.16 7.13,-4.22c1.85,-2.06 3.22,-4.7 3.98,-7.39c0.77,-2.69 0.75,-5.55 -0.06,-8.14c-0.81,-2.59 -2.48,-4.91 -4.66,-6.49l-1.23,0.29z" fill="url(#paint0_linear_708_2701)" id="svg_2" stroke="url(#paint1_linear_708_2701)" stroke-width="2.8"/>
+  </g>
+ </g>
+</svg>
